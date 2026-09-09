@@ -1,0 +1,13 @@
+{
+  "name": "genpark-dinic-maximum-network-flow-skill",
+  "version": "1.0.0",
+  "description": "Dinic's blocking flow algorithm solving maximum network flow and minimum s-t cut in O(V^2 E) with level graphs and pointer optimizations.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "dinics-algorithm",
+    "network-flow",
+    "max-flow-min-cut",
+    "graph-algorithms"
+  ]
+}
